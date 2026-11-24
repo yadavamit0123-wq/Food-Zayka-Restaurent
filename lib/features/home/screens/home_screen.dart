@@ -160,15 +160,12 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
 
       appBar: AppBar(
         backgroundColor: Theme.of(context).cardColor,
-        leading: Padding(
-          padding: const EdgeInsets.all(Dimensions.paddingSizeSmall),
-          child: Image.asset(Images.logo, height: 30, width: 30),
-        ),
+        leading: const SizedBox(width: 8),
         titleSpacing: 0,
         surfaceTintColor: Theme.of(context).cardColor,
         shadowColor: Theme.of(context).hintColor.withValues(alpha: 0.5),
         elevation: 2,
-        title: Image.asset(Images.logoName, width: 120),
+        title: Image.asset(Images.logo, width: 150, fit: BoxFit.contain),
         actions: [IconButton(
           icon: GetBuilder<NotificationController>(builder: (notificationController) {
 

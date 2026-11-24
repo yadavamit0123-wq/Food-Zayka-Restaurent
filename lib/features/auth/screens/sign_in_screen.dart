@@ -65,12 +65,7 @@ class _SignInScreenState extends State<SignInScreen> {
 
             const SizedBox(height: 50),
 
-            Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-              Image.asset(Images.logo, width: 50, height: 50),
-              const SizedBox(width: 3),
-
-              Image.asset(Images.logoName, width: 150),
-            ]),
+            Image.asset(Images.logo, width: 240, fit: BoxFit.contain),
             const SizedBox(height: 50),
 
             Container(
