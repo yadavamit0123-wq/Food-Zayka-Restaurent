@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "32034281430",
+    "project_id": "food-zayka",
+    "storage_bucket": "food-zayka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32034281430:android:15e278914e63a6786d3677",
+        "android_client_info": {
+          "package_name": "com.pt.foodzayka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32034281430-sapr174orc13bdh3nkqpkhq34k88hjkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WSqBgqeuhvim5LNThdActhi3y6IZQjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32034281430-sapr174orc13bdh3nkqpkhq34k88hjkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32034281430:android:14130424949050576d3677",
+        "android_client_info": {
+          "package_name": "com.pt.foodzaykadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32034281430-sapr174orc13bdh3nkqpkhq34k88hjkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WSqBgqeuhvim5LNThdActhi3y6IZQjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32034281430-sapr174orc13bdh3nkqpkhq34k88hjkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32034281430:android:c00f54821d8630b26d3677",
+        "android_client_info": {
+          "package_name": "com.pt.foodzaykarestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32034281430-sapr174orc13bdh3nkqpkhq34k88hjkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WSqBgqeuhvim5LNThdActhi3y6IZQjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32034281430-sapr174orc13bdh3nkqpkhq34k88hjkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
